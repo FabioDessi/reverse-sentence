@@ -1,0 +1,23 @@
+{
+  "name": "@fabio.dessi/reverse-sentence",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "./node_modules/prettier/bin-prettier.js . --write"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FabioDessi/reverse-sentence.git"
+  },
+  "bugs": {
+    "url": "https://github.com/FabioDessi/reverse-sentence/issues"
+  },
+  "homepage": "https://github.com/FabioDessi/reverse-sentence#readme",
+  "devDependencies": {
+    "prettier": "2.5.1"
+  }
+}
